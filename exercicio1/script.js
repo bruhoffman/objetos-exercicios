@@ -18,5 +18,7 @@ const fruta3 = {
     disponibilidade: true
 };
 
-sacolao.push(fruta1, fruta2, fruta3);
+sacolao.push(fruta1);
+sacolao.push(fruta2);
+sacolao.push(fruta3);
 console.log(sacolao);
